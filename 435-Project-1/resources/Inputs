@@ -1,0 +1,17 @@
+Inputs used for ReadMe:
+1) "26341 B759A8DEFC" BFS
+// no DFS for this start because it ran out of memory while searching.
+2) "26341 B759A8DEFC" DLS 20
+3) "26341 B759A8DEFC" AStar h1
+4) "26341 B759A8DEFC" AStar h2
+5) "26341 B759A8DEFC" GBFS h1
+6) "26341 B759A8DEFC" GBFS h2
+7) "123456789AB DEFC" BFS
+8) "123456789AB DEFC" DFS
+9) "123456789AB DEFC" DLS 2
+10) "123456789AB DEFC" AStar h1
+11) "123456789AB DEFC" AStar h2
+12) "123456789AB DEFC" GBFS h1
+13) "123456789AB DEFC" GBFS h2
+// DFS didn't work for first start space, it ran out of memory.
+14) "123456789A BDEFC" DFS
